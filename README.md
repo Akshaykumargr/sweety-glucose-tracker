@@ -105,3 +105,7 @@ All reading and report endpoints require `Authorization: Bearer <token>`.
 - More integration and frontend tests
 - Docker Compose for local setup
 - Deployment, monitoring and audit logging
+
+# sweety-glucose-tracker
+Blood Glucose Tracking Application using React, Node.js, Express and PostgreSQL
+
